@@ -1,0 +1,99 @@
+
+#title {
+text-align: center;
+padding: 2rem;
+margin: 0 auto;
+background-color: #fbbb27;
+color: black;
+opacity: 90%;
+}
+
+.subtitle {
+margin: 2rem auto;
+}
+
+#options {
+margin: 1rem auto;
+}
+
+#question {
+margin: 1rem auto;
+}
+
+#zn {
+margin: 1rem auto;
+}
+
+#pregunta {
+font-style: italic;
+margin: 2rem auto;
+}
+
+#munic {
+font-style: italic;
+margin: 2rem auto;
+}
+
+#P {
+font-style: italic;
+margin: 2rem auto;
+}
+
+
+#estimations {
+margin: 0 auto;
+}
+
+#estimaciones {
+margin: 5rem auto;
+}
+
+#test {
+margin: 1rem auto;
+text-align: center;
+padding-top: 3rem;
+}
+
+#tdona {
+text-align: center;
+margin: 1rem auto;
+padding-top: 3rem;
+}
+
+#tbarras {
+text-align: center;
+margin: 1rem auto;
+}
+
+#dona {
+margin: 0;
+}
+
+
+#comparisons {
+margin: 0 auto;
+padding: 3rem;
+}
+
+#barras {
+padding: 2rem 0;
+margin: 0;
+}
+
+#fijo {
+padding: 3rem;
+margin: 0 auto;
+}
+
+#nsnr {
+text-align: left;
+font-style: italic;
+padding-left: 9rem;
+font-size: 1.1rem;
+}
+
+#zona {
+font-style: italic;
+font-size: 1.1rem;
+padding-left: 2rem;
+}

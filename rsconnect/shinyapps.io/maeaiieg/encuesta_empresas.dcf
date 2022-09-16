@@ -1,0 +1,12 @@
+name: encuesta_empresas
+title: encuesta_empresas
+username:
+account: maeaiieg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2268229
+bundleId: 3228221
+url: https://maeaiieg.shinyapps.io/encuesta_empresas/
+when: 1591279572.55355
+asMultiple: FALSE
+asStatic: FALSE
